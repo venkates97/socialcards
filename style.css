@@ -10,7 +10,7 @@ body {
     font-size: 13px;
 }
 
-a {
+.a-tag-cs{
     border-bottom: 2px solid skyblue;
     font-size: 14px;
     margin-top: 10px;
@@ -23,7 +23,7 @@ a {
 }
 
 .box1 {
-    padding: 50px 1px;
+    padding: 50px 5px;
 }
 
 .col-md-4 {
