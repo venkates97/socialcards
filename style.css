@@ -1,0 +1,35 @@
+body {
+    background-color: whitesmoke;
+}
+
+.fa-brands {
+    color: skyblue;
+}
+
+.content {
+    font-size: 13px;
+}
+
+a {
+    border-bottom: 2px solid skyblue;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.box_part {
+    background-color: white;
+    padding: 30px 15px;
+    margin: 10px 1px;
+}
+
+.box1 {
+    padding: 50px 1px;
+}
+
+.col-md-4 {
+    padding: 0px 5px;
+}
+
+.cont_space{
+    margin: 10px 0px;
+}
